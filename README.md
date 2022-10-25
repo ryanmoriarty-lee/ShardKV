@@ -1,6 +1,6 @@
 # shardKV
 
-A KV system base on Distributed System course lab, raft and some tricks.
+A Key-Value store system base on Distributed System course lab, raft and some tricks.
 
 Just a demo, maybe there are some problems to dule with.
 
